@@ -1,2 +1,2 @@
 # Alien-Language
-decodes and encodes given or generated text
+Gives you an example of what a blurb is and asks the user if they want to check if their string is considered a blurb. The blurb() method defines what a blurb is, a string composed of one of more sequences of "whoozits" and "whatzits". A blurb starts with a "whoozit" and can be followed by "y" but is followed by a series of "whatzits". "Whatzits" consists of 'qz' or 'qd' which is then followed by a "whoozit".
